@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WOMEN-IN-TECH-HACKATON/static/css/main.78c8a596.chunk.css",
+    "main.js": "/WOMEN-IN-TECH-HACKATON/static/js/main.51cfcdc8.chunk.js",
+    "main.js.map": "/WOMEN-IN-TECH-HACKATON/static/js/main.51cfcdc8.chunk.js.map",
+    "runtime-main.js": "/WOMEN-IN-TECH-HACKATON/static/js/runtime-main.7d4c39fe.js",
+    "runtime-main.js.map": "/WOMEN-IN-TECH-HACKATON/static/js/runtime-main.7d4c39fe.js.map",
+    "static/js/2.dc014a90.chunk.js": "/WOMEN-IN-TECH-HACKATON/static/js/2.dc014a90.chunk.js",
+    "static/js/2.dc014a90.chunk.js.map": "/WOMEN-IN-TECH-HACKATON/static/js/2.dc014a90.chunk.js.map",
+    "index.html": "/WOMEN-IN-TECH-HACKATON/index.html",
+    "static/css/main.78c8a596.chunk.css.map": "/WOMEN-IN-TECH-HACKATON/static/css/main.78c8a596.chunk.css.map",
+    "static/js/2.dc014a90.chunk.js.LICENSE.txt": "/WOMEN-IN-TECH-HACKATON/static/js/2.dc014a90.chunk.js.LICENSE.txt",
+    "static/media/2womencode.c1cf6623.jpg": "/WOMEN-IN-TECH-HACKATON/static/media/2womencode.c1cf6623.jpg",
+    "static/media/3womencomputer.5125b6af.jpg": "/WOMEN-IN-TECH-HACKATON/static/media/3womencomputer.5125b6af.jpg",
+    "static/media/ada-lovelace.ca84de2c.png": "/WOMEN-IN-TECH-HACKATON/static/media/ada-lovelace.ca84de2c.png",
+    "static/media/community.8b957c04.jpeg": "/WOMEN-IN-TECH-HACKATON/static/media/community.8b957c04.jpeg",
+    "static/media/laughingcomputer.e8557a60.jpg": "/WOMEN-IN-TECH-HACKATON/static/media/laughingcomputer.e8557a60.jpg",
+    "static/media/woman-two-computers.0b6de05f.jpg": "/WOMEN-IN-TECH-HACKATON/static/media/woman-two-computers.0b6de05f.jpg",
+    "static/media/woman1.df43f428.jpeg": "/WOMEN-IN-TECH-HACKATON/static/media/woman1.df43f428.jpeg",
+    "static/media/woman2.642666dd.jpeg": "/WOMEN-IN-TECH-HACKATON/static/media/woman2.642666dd.jpeg",
+    "static/media/woman3.b1807eaa.jpeg": "/WOMEN-IN-TECH-HACKATON/static/media/woman3.b1807eaa.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4c39fe.js",
+    "static/js/2.dc014a90.chunk.js",
+    "static/css/main.78c8a596.chunk.css",
+    "static/js/main.51cfcdc8.chunk.js"
+  ]
+}
